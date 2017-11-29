@@ -74,8 +74,13 @@ Expressionstr   cstring(255)
           if CTR# > 1
              Expressionstr = 'Var'&CTR#&' = 5 * Var'&CTR#-1&' ;'
              qvars.calresult = Calc2Expression.computeStrFromString(Expressionstr)    
-             put(QVars)
-               
+                put(QVars)
+                
+                
+                Expressionstr = 'Var'&CTR#-1&';'
+                qvars.Calcpreviousvalue = Calc2Expression.computeIntFromString(Expressionstr)
+                put(QVars)
+                 
           END   
             
     END    
@@ -86,8 +91,8 @@ Calcwindow          PROCEDURE
 Window                  WINDOW('Cacl 2'),AT(,,523,344),GRAY,FONT('Segoe UI',8,,FONT:regular)
                             BUTTON('&OK'),AT(419,313,41,14),USE(?OkButton),DEFAULT
                             BUTTON('&Cancel'),AT(461,313,42,14),USE(?CancelButton),STD(STD:Close)
-                            LIST,AT(19,13,483,270),USE(?LIST1),FROM(qvars),FORMAT('53L(2)|M#1#' & |
-                                '20L(2)|M#3#')
+                            LIST,AT(19,13,483,270),USE(?LIST1),FROM(qvars),FORMAT('53L(2)|M~Var Name' & |
+                                '~#1#72L(2)|M~Result~#3#20L(2)|M~Previous Value~#4#')
                         END
 
 

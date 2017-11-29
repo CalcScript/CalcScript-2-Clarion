@@ -1,5 +1,5 @@
 Started 
-Heap handle: 07F50000
+Heap handle: 12780000
 start process C:\Calc Script Versions\Calc 2 Cla\Calc2Clarion.exe
 Command line :> "C:\Clarion10\bin\Cladb.exe"  -s Debug  -c "C:\Users\steve\AppData\Roaming\SoftVelocity\Clarion\10.0"  "C:\Calc Script Versions\Calc 2 Cla\Calc2Clarion.exe" 
 Command line :> "C:\Calc Script Versions\Calc 2 Cla\Calc2Clarion.exe" 
@@ -7,35 +7,35 @@ Redirection file :>
 CREATE_PROCESS_DEBUG_EVENT  ! No image name found
 g.debug_name C:\Calc Script Versions\Calc 2 Cla\Calc2Clarion.exe
 BaseOfImage                00400000
-CREATE_PROCESS_DEBUG_EVENT: process main thread tid=000037F0
-thread handle=000006A4
+CREATE_PROCESS_DEBUG_EVENT: process main thread tid=00002F7C
+thread handle=000006A0
 ntdll.dll Loaded at: 77D10000
 No debug information
-UNLOAD_DLL_DEBUG_EVENT: BaseOfDll 02480000
+UNLOAD_DLL_DEBUG_EVENT: BaseOfDll 02490000
 UNLOAD_DLL_DEBUG_EVENT: BaseOfDll 76F50000
-UNLOAD_DLL_DEBUG_EVENT: BaseOfDll 02480000
+UNLOAD_DLL_DEBUG_EVENT: BaseOfDll 02490000
 KERNEL32.dll Loaded at: 76F50000
 No debug information
 KERNELBASE.dll Loaded at: 76600000
 No debug information
-CREATE_THREAD_DEBUG_EVENT: tid=00002BF8
+CREATE_THREAD_DEBUG_EVENT: tid=00001DC8
 thread handle=000006D8
-CREATE_THREAD_DEBUG_EVENT: tid=00003738
-thread handle=000006D4
-ClaRUN.dll Loaded at: 02860000
-WslDb$$NotifyDebugger 029409DC
-Calcscript2.dll Loaded at: 5D550000
-No debug information
+CREATE_THREAD_DEBUG_EVENT: tid=0000264C
+thread handle=00000688
+ClaRUN.dll Loaded at: 02880000
+WslDb$$NotifyDebugger 029609DC
 UNLOAD_DLL_DEBUG_EVENT: ClaRUN
-BaseOfDll               02860000
-VCRUNTIME140D.dll Loaded at: 5D530000
+BaseOfDll               02880000
+Calcscript2.dll Loaded at: 5D590000
 No debug information
-ucrtbased.dll Loaded at: 0F7D0000
+VCRUNTIME140D.dll Loaded at: 64860000
 No debug information
-CREATE_THREAD_DEBUG_EVENT: tid=00003238
-thread handle=000006EC
-ClaRUN.dll Loaded at: 029A0000
-WslDb$$NotifyDebugger 02A809DC
+ucrtbased.dll Loaded at: 0FE20000
+No debug information
+CREATE_THREAD_DEBUG_EVENT: tid=00000900
+thread handle=000006E0
+ClaRUN.dll Loaded at: 029C0000
+WslDb$$NotifyDebugger 02AA09DC
 ADVAPI32.dll Loaded at: 75E20000
 No debug information
 msvcrt.dll Loaded at: 77B20000
@@ -62,20 +62,17 @@ ucrtbase.dll Loaded at: 75C70000
 No debug information
 gdi32full.dll Loaded at: 75FB0000
 No debug information
-msvcp_win.dll Loaded at: 75D90000
-No debug information
 SHCORE.dll Loaded at: 75EC0000
+No debug information
+msvcp_win.dll Loaded at: 75D90000
 No debug information
 USER32.dll Loaded at: 74750000
 No debug information
-USER32.dll Loaded at: 02B50000
+USER32.dll Loaded at: 02B70000
 No debug information
-UNLOAD_DLL_DEBUG_EVENT: BaseOfDll 02B50000
 win32u.dll Loaded at: 77C60000
 No debug information
-win32u.dll Loaded at: 02B50000
-No debug information
-UNLOAD_DLL_DEBUG_EVENT: BaseOfDll 02B50000
+UNLOAD_DLL_DEBUG_EVENT: BaseOfDll 74750000
 SHLWAPI.dll Loaded at: 77BE0000
 No debug information
 SHELL32.dll Loaded at: 748D0000
@@ -129,29 +126,29 @@ NTMARTA.dll Loaded at: 73FA0000
 No debug information
 WinTypes.dll Loaded at: 62790000
 No debug information
-WinTypes.dll Loaded at: 0C830000
+WinTypes.dll Loaded at: 0EEE0000
 No debug information
-UNLOAD_DLL_DEBUG_EVENT: BaseOfDll 0C830000
+UNLOAD_DLL_DEBUG_EVENT: BaseOfDll 0EEE0000
 CLBCatQ.DLL Loaded at: 77C80000
 No debug information
 UIAutomationCore.DLL Loaded at: 625F0000
 No debug information
-CREATE_THREAD_DEBUG_EVENT: tid=00001D10
-thread handle=00000798
-CREATE_THREAD_DEBUG_EVENT: tid=0000356C
-thread handle=000007A0
-CREATE_THREAD_DEBUG_EVENT: tid=00001364
-thread handle=000007A4
-CREATE_THREAD_DEBUG_EVENT: tid=000014A4
-thread handle=0000076C
-CREATE_THREAD_DEBUG_EVENT: tid=000013A0
-thread handle=000007A8
-onecore\com\combase\inc\comcataloghelpers.hpp(67)\combase.dll!76368550: (caller: 763682E0) ReturnHr(1) tid(13a0) 80004002 No such interface supported
+CREATE_THREAD_DEBUG_EVENT: tid=000011CC
+thread handle=0000078C
+CREATE_THREAD_DEBUG_EVENT: tid=000017A0
+thread handle=00000794
+CREATE_THREAD_DEBUG_EVENT: tid=00002BEC
+thread handle=000007AC
+CREATE_THREAD_DEBUG_EVENT: tid=0000067C
+thread handle=00000790
+CREATE_THREAD_DEBUG_EVENT: tid=00000A94
+thread handle=00000710
+onecore\com\combase\inc\comcataloghelpers.hpp(67)\combase.dll!76368550: (caller: 763682E0) ReturnHr(1) tid(a94) 80004002 No such interface supported
 sxs.dll Loaded at: 693B0000
 No debug information
-mincore\com\oleaut32\dispatch\ups.cpp(2125)\OLEAUT32.dll!761A234F: (caller: 761A1EF1) ReturnHr(1) tid(37f0) 8002801D Library not registered.
-mincore\com\oleaut32\dispatch\ups.cpp(2125)\OLEAUT32.dll!761A234F: (caller: 761A1EF1) ReturnHr(2) tid(37f0) 8002801D Library not registered.
-CREATE_THREAD_DEBUG_EVENT: tid=000006D0
+mincore\com\oleaut32\dispatch\ups.cpp(2125)\OLEAUT32.dll!761A234F: (caller: 761A1EF1) ReturnHr(1) tid(2f7c) 8002801D Library not registered.
+mincore\com\oleaut32\dispatch\ups.cpp(2125)\OLEAUT32.dll!761A234F: (caller: 761A1EF1) ReturnHr(2) tid(2f7c) 8002801D Library not registered.
+CREATE_THREAD_DEBUG_EVENT: tid=000021E4
 thread handle=000007B0
 OLEACC.dll Loaded at: 68530000
 No debug information
