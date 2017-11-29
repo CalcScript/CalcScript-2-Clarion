@@ -36,6 +36,7 @@ calcvarsclass       class,TYPE,IMPLEMENTS(ICgetSetInt)|
 Varany                  ANY
 VarName                 cstring(25)
 cstringref              &cstring   ! return value to expression in c++ runtime
+destruct                PROCEDURE        
                     END
 
 QVars       QUEUE     
@@ -106,6 +107,14 @@ Window                  WINDOW('Cacl 2'),AT(,,523,344),GRAY,FONT('Segoe UI',8,,F
     END
     close(Window)
 
+    
+calcvarsclass.destruct                PROCEDURE        
+
+    CODE
+    if not self.cstringref &= NULL    
+       dispose(self.cstringref)
+    END
+    
 calcvarsclass.ICgetSetInt.get             PROCEDURE() !,proc, LONG, raw ! get interger
     CODE
     return  self.Varany 
