@@ -1,0 +1,163 @@
+Started 
+Heap handle: 07F50000
+start process C:\Calc Script Versions\Calc 2 Cla\Calc2Clarion.exe
+Command line :> "C:\Clarion10\bin\Cladb.exe"  -s Debug  -c "C:\Users\steve\AppData\Roaming\SoftVelocity\Clarion\10.0"  "C:\Calc Script Versions\Calc 2 Cla\Calc2Clarion.exe" 
+Command line :> "C:\Calc Script Versions\Calc 2 Cla\Calc2Clarion.exe" 
+Redirection file :> 
+CREATE_PROCESS_DEBUG_EVENT  ! No image name found
+g.debug_name C:\Calc Script Versions\Calc 2 Cla\Calc2Clarion.exe
+BaseOfImage                00400000
+CREATE_PROCESS_DEBUG_EVENT: process main thread tid=000037F0
+thread handle=000006A4
+ntdll.dll Loaded at: 77D10000
+No debug information
+UNLOAD_DLL_DEBUG_EVENT: BaseOfDll 02480000
+UNLOAD_DLL_DEBUG_EVENT: BaseOfDll 76F50000
+UNLOAD_DLL_DEBUG_EVENT: BaseOfDll 02480000
+KERNEL32.dll Loaded at: 76F50000
+No debug information
+KERNELBASE.dll Loaded at: 76600000
+No debug information
+CREATE_THREAD_DEBUG_EVENT: tid=00002BF8
+thread handle=000006D8
+CREATE_THREAD_DEBUG_EVENT: tid=00003738
+thread handle=000006D4
+ClaRUN.dll Loaded at: 02860000
+WslDb$$NotifyDebugger 029409DC
+Calcscript2.dll Loaded at: 5D550000
+No debug information
+UNLOAD_DLL_DEBUG_EVENT: ClaRUN
+BaseOfDll               02860000
+VCRUNTIME140D.dll Loaded at: 5D530000
+No debug information
+ucrtbased.dll Loaded at: 0F7D0000
+No debug information
+CREATE_THREAD_DEBUG_EVENT: tid=00003238
+thread handle=000006EC
+ClaRUN.dll Loaded at: 029A0000
+WslDb$$NotifyDebugger 02A809DC
+ADVAPI32.dll Loaded at: 75E20000
+No debug information
+msvcrt.dll Loaded at: 77B20000
+No debug information
+SECHOST.dll Loaded at: 76550000
+No debug information
+RPCRT4.dll Loaded at: 76230000
+No debug information
+SspiCli.dll Loaded at: 74730000
+No debug information
+CRYPTBASE.dll Loaded at: 74720000
+No debug information
+bcryptPrimitives.dll Loaded at: 75F50000
+No debug information
+COMDLG32.dll Loaded at: 77A40000
+No debug information
+COMCTL32.dll Loaded at: 6EF10000
+No debug information
+combase.dll Loaded at: 762F0000
+No debug information
+GDI32.dll Loaded at: 77C30000
+No debug information
+ucrtbase.dll Loaded at: 75C70000
+No debug information
+gdi32full.dll Loaded at: 75FB0000
+No debug information
+msvcp_win.dll Loaded at: 75D90000
+No debug information
+SHCORE.dll Loaded at: 75EC0000
+No debug information
+USER32.dll Loaded at: 74750000
+No debug information
+USER32.dll Loaded at: 02B50000
+No debug information
+UNLOAD_DLL_DEBUG_EVENT: BaseOfDll 02B50000
+win32u.dll Loaded at: 77C60000
+No debug information
+win32u.dll Loaded at: 02B50000
+No debug information
+UNLOAD_DLL_DEBUG_EVENT: BaseOfDll 02B50000
+SHLWAPI.dll Loaded at: 77BE0000
+No debug information
+SHELL32.dll Loaded at: 748D0000
+No debug information
+CFGMGR32.dll Loaded at: 77020000
+No debug information
+Windows.Storage.dll Loaded at: 77240000
+No debug information
+AppCore.dll Loaded at: 76220000
+No debug information
+POWRPROF.dll Loaded at: 77060000
+No debug information
+profapi.dll Loaded at: 76930000
+No debug information
+ole32.dll Loaded at: 77140000
+No debug information
+OLEAUT32.dll Loaded at: 76180000
+No debug information
+MPR.dll Loaded at: 74090000
+No debug information
+WINSPOOL.DRV Loaded at: 6A450000
+No debug information
+oledlg.dll Loaded at: 6B290000
+No debug information
+IPHLPAPI.DLL Loaded at: 73E50000
+No debug information
+bcrypt.dll Loaded at: 73B40000
+No debug information
+IMM32.dll Loaded at: 77880000
+No debug information
+MSIMG32.dll Loaded at: 70BF0000
+No debug information
+UxTheme.dll Loaded at: 6AD70000
+No debug information
+MSCTF.dll Loaded at: 767E0000
+No debug information
+tiptsf.dll Loaded at: 69DC0000
+No debug information
+VERSION.dll Loaded at: 740F0000
+No debug information
+UNLOAD_DLL_DEBUG_EVENT: BaseOfDll 740F0000
+dwmapi.dll Loaded at: 64210000
+No debug information
+TextInputFramework.dll Loaded at: 66D40000
+No debug information
+CoreUIComponents.dll Loaded at: 62860000
+No debug information
+CoreMessaging.dll Loaded at: 62FA0000
+No debug information
+NTMARTA.dll Loaded at: 73FA0000
+No debug information
+WinTypes.dll Loaded at: 62790000
+No debug information
+WinTypes.dll Loaded at: 0C830000
+No debug information
+UNLOAD_DLL_DEBUG_EVENT: BaseOfDll 0C830000
+CLBCatQ.DLL Loaded at: 77C80000
+No debug information
+UIAutomationCore.DLL Loaded at: 625F0000
+No debug information
+CREATE_THREAD_DEBUG_EVENT: tid=00001D10
+thread handle=00000798
+CREATE_THREAD_DEBUG_EVENT: tid=0000356C
+thread handle=000007A0
+CREATE_THREAD_DEBUG_EVENT: tid=00001364
+thread handle=000007A4
+CREATE_THREAD_DEBUG_EVENT: tid=000014A4
+thread handle=0000076C
+CREATE_THREAD_DEBUG_EVENT: tid=000013A0
+thread handle=000007A8
+onecore\com\combase\inc\comcataloghelpers.hpp(67)\combase.dll!76368550: (caller: 763682E0) ReturnHr(1) tid(13a0) 80004002 No such interface supported
+sxs.dll Loaded at: 693B0000
+No debug information
+mincore\com\oleaut32\dispatch\ups.cpp(2125)\OLEAUT32.dll!761A234F: (caller: 761A1EF1) ReturnHr(1) tid(37f0) 8002801D Library not registered.
+mincore\com\oleaut32\dispatch\ups.cpp(2125)\OLEAUT32.dll!761A234F: (caller: 761A1EF1) ReturnHr(2) tid(37f0) 8002801D Library not registered.
+CREATE_THREAD_DEBUG_EVENT: tid=000006D0
+thread handle=000007B0
+OLEACC.dll Loaded at: 68530000
+No debug information
+TWINAPI.dll Loaded at: 59620000
+No debug information
+twinapi.appcore.dll Loaded at: 5FA40000
+No debug information
+RMCLIENT.dll Loaded at: 68410000
+No debug information

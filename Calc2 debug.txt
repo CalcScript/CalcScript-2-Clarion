@@ -1,0 +1,1372 @@
+start logging 
+Calc::Bindstringifc string get set interface
+ Var1 00402120
+Calc::bindBindable name 
+ Var1 0266B260 00000000
+Calc::bindBindable before assign address Bindable  
+ Var1 0266B260 00000000
+Calc::bindBindable before assign address Bindable  
+ Var1 0266B260 00000000
+Calc::bindBindable after assign address Bindable  
+ Var1 0266B260 00000000
+Calc::bindBindable after Bind  
+ Var1 0266B260 00000000
+Calc::Bindstringifc after string get set interface
+ Var1 00402120
+Calc::Bindstringifc string get set interface
+ Var2 00402120
+Calc::bindBindable name 
+ Var2 0266A748 00000000
+Calc::bindBindable before assign address Bindable  
+ Var2 0266A748 00000000
+Calc::bindBindable before assign address Bindable  
+ Var2 0266A748 00000000
+Calc::bindBindable after assign address Bindable  
+ Var2 0266A748 00000000
+Calc::bindBindable after Bind  
+ Var2 0266A748 00000000
+Calc::Bindstringifc after string get set interface
+ Var2 00402120
+Calc::Bindstringifc string get set interface
+ Var3 00402120
+Calc::bindBindable name 
+ Var3 026672A8 00000000
+Calc::bindBindable before assign address Bindable  
+ Var3 026672A8 00000000
+Calc::bindBindable before assign address Bindable  
+ Var3 026672A8 00000000
+Calc::bindBindable after assign address Bindable  
+ Var3 026672A8 00000000
+Calc::bindBindable after Bind  
+ Var3 026672A8 00000000
+Calc::Bindstringifc after string get set interface
+ Var3 00402120
+Calc::Bindstringifc string get set interface
+ Var4 00402120
+Calc::bindBindable name 
+ Var4 0266B890 00000000
+Calc::bindBindable before assign address Bindable  
+ Var4 0266B890 00000000
+Calc::bindBindable before assign address Bindable  
+ Var4 0266B890 00000000
+Calc::bindBindable after assign address Bindable  
+ Var4 0266B890 00000000
+Calc::bindBindable after Bind  
+ Var4 0266B890 00000000
+Calc::Bindstringifc after string get set interface
+ Var4 00402120
+Calc::Bindstringifc string get set interface
+ Var5 00402120
+Calc::bindBindable name 
+ Var5 0266B6C8 00000000
+Calc::bindBindable before assign address Bindable  
+ Var5 0266B6C8 00000000
+Calc::bindBindable before assign address Bindable  
+ Var5 0266B6C8 00000000
+Calc::bindBindable after assign address Bindable  
+ Var5 0266B6C8 00000000
+Calc::bindBindable after Bind  
+ Var5 0266B6C8 00000000
+Calc::Bindstringifc after string get set interface
+ Var5 00402120
+Calc::Bindstringifc string get set interface
+ Var6 00402120
+Calc::bindBindable name 
+ Var6 02668630 00000000
+Calc::bindBindable before assign address Bindable  
+ Var6 02668630 00000000
+Calc::bindBindable before assign address Bindable  
+ Var6 02668630 00000000
+Calc::bindBindable after assign address Bindable  
+ Var6 02668630 00000000
+Calc::bindBindable after Bind  
+ Var6 02668630 00000000
+Calc::Bindstringifc after string get set interface
+ Var6 00402120
+Calc::Bindstringifc string get set interface
+ Var7 00402120
+Calc::bindBindable name 
+ Var7 0266CBA8 00000000
+Calc::bindBindable before assign address Bindable  
+ Var7 0266CBA8 00000000
+Calc::bindBindable before assign address Bindable  
+ Var7 0266CBA8 00000000
+Calc::bindBindable after assign address Bindable  
+ Var7 0266CBA8 00000000
+Calc::bindBindable after Bind  
+ Var7 0266CBA8 00000000
+Calc::Bindstringifc after string get set interface
+ Var7 00402120
+Calc::Bindstringifc string get set interface
+ Var8 00402120
+Calc::bindBindable name 
+ Var8 0266C9D8 00000000
+Calc::bindBindable before assign address Bindable  
+ Var8 0266C9D8 00000000
+Calc::bindBindable before assign address Bindable  
+ Var8 0266C9D8 00000000
+Calc::bindBindable after assign address Bindable  
+ Var8 0266C9D8 00000000
+Calc::bindBindable after Bind  
+ Var8 0266C9D8 00000000
+Calc::Bindstringifc after string get set interface
+ Var8 00402120
+Calc::Bindstringifc string get set interface
+ Var9 00402120
+Calc::bindBindable name 
+ Var9 0266C1C8 00000000
+Calc::bindBindable before assign address Bindable  
+ Var9 0266C1C8 00000000
+Calc::bindBindable before assign address Bindable  
+ Var9 0266C1C8 00000000
+Calc::bindBindable after assign address Bindable  
+ Var9 0266C1C8 00000000
+Calc::bindBindable after Bind  
+ Var9 0266C1C8 00000000
+Calc::Bindstringifc after string get set interface
+ Var9 00402120
+Calc::Bindstringifc string get set interface
+ Var10 00402120
+Calc::bindBindable name 
+ Var10 0266B360 00000000
+Calc::bindBindable before assign address Bindable  
+ Var10 0266B360 00000000
+Calc::bindBindable before assign address Bindable  
+ Var10 0266B360 00000000
+Calc::bindBindable after assign address Bindable  
+ Var10 0266B360 00000000
+Calc::bindBindable after Bind  
+ Var10 0266B360 00000000
+Calc::Bindstringifc after string get set interface
+ Var10 00402120
+Calc::computeRestart , debug log   
+Calc::computeRestart , End   
+Calc::tokenize
+ Var1 = 5 * 42 ;
+Calc::OPINDEXBOUND
+ Var1 = 5 * 42 ;
+Calc::OPINDEXBOUND
+ Var1 = 5 * 42 ;
+Calc::Computer(TokenHandle handle) 
+Calc::begin start compute expressions
+Calc::get the compute token list handle  40259856
+Calc::start compute token number  40259856
+Calc::OP CODE   3
+Calc::start compute token number  40259864
+Calc::OP CODE   7
+Calc:: Tokenise Excute OP CODE 
+ OP CODE 3 
+Calc::start compute token number  40259872
+Calc::OP CODE   1
+Calc::start compute token number  40259880
+Calc::OP CODE   14
+Calc:: Tokenise Excute OP CODE 
+ OP CODE 1 
+Calc:: math push number 
+ 2 5 
+Calc::start compute token number  40259888
+Calc::OP CODE   1
+Calc::start compute token number  40259896
+Calc::OP CODE   8
+Calc:: Tokenise Excute OP CODE 
+ OP CODE 1 
+Calc:: math push number 
+ 3 42 
+Calc:: Tokenise Excute OP CODE 
+ OP CODE 14 
+Calc:: math push number 
+ 2 210 
+Calc:: Tokenise Excute OP CODE 
+ OP CODE 7 
+Calc:: member = Null ,SetMember int or string 
+calc::getParamStr, get parameter str , p n =  0 
+ calc::getParam, Strget parameter str
+ calc::getParamStr, Get and return type,  2 
+calc::getParamStr, get parameter not type str
+  convert to string,  210 
+calc::getParamStr, get and return  parameter str
+  calc::getParamStr , Get and return string Value = ,  210 
+ Var1 210 
+Calc::member = null , SetMember int or string, call Set String IFC 
+ Var1 02B59278 
+calc::getParamStr, get parameter str , p n =  0 
+ calc::getParam, Strget parameter str
+ calc::getParamStr, Get and return type,  3 
+calc::getParamStr, get and return  parameter str
+  calc::getParamStr , Get and return string Value = ,  210 
+Calc::member = null , AFTER SetMember int or string, call Set String IFC 
+ Var1 02B59278 
+ END OF SetMember int or string, call Set String IFC 
+Calc::start compute token number  40259904
+Calc::OP CODE   93
+Calc:: end computed expression
+Calc::computeRestart , debug log   
+Calc::computeRestart , End   
+Calc::tokenize
+ Var1 = 5 * 42 ;
+Calc::OPINDEXBOUND
+ Var1 = 5 * 42 ;
+Calc::OPINDEXBOUND
+ Var1 = 5 * 42 ;
+Calc::Computer(TokenHandle handle) 
+Calc::begin start compute expressions
+Calc::get the compute token list handle  40259856
+Calc::start compute token number  40259856
+Calc::OP CODE   3
+Calc::start compute token number  40259864
+Calc::OP CODE   7
+Calc:: Tokenise Excute OP CODE 
+ OP CODE 3 
+Calc::start compute token number  40259872
+Calc::OP CODE   1
+Calc::start compute token number  40259880
+Calc::OP CODE   14
+Calc:: Tokenise Excute OP CODE 
+ OP CODE 1 
+Calc:: math push number 
+ 2 5 
+Calc::start compute token number  40259888
+Calc::OP CODE   1
+Calc::start compute token number  40259896
+Calc::OP CODE   8
+Calc:: Tokenise Excute OP CODE 
+ OP CODE 1 
+Calc:: math push number 
+ 3 42 
+Calc:: Tokenise Excute OP CODE 
+ OP CODE 14 
+Calc:: math push number 
+ 2 210 
+Calc:: Tokenise Excute OP CODE 
+ OP CODE 7 
+Calc:: member = Null ,SetMember int or string 
+calc::getParamStr, get parameter str , p n =  0 
+ calc::getParam, Strget parameter str
+ calc::getParamStr, Get and return type,  2 
+calc::getParamStr, get parameter not type str
+  convert to string,  210 
+calc::getParamStr, get and return  parameter str
+  calc::getParamStr , Get and return string Value = ,  210 
+ Var1 210 
+Calc::member = null , SetMember int or string, call Set String IFC 
+ Var1 02B59278 
+calc::getParamStr, get parameter str , p n =  0 
+ calc::getParam, Strget parameter str
+ calc::getParamStr, Get and return type,  3 
+calc::getParamStr, get and return  parameter str
+  calc::getParamStr , Get and return string Value = ,  210 
+Calc::member = null , AFTER SetMember int or string, call Set String IFC 
+ Var1 02B59278 
+ END OF SetMember int or string, call Set String IFC 
+Calc::start compute token number  40259904
+Calc::OP CODE   93
+Calc:: end computed expression
+Calc::computeRestart , debug log   
+Calc::computeRestart , End   
+Calc::tokenize
+ Var2 = 5 * Var1 ;
+Calc::OPINDEXBOUND
+ Var2 = 5 * Var1 ;
+Calc::OPINDEXBOUND
+ Var2 = 5 * Var1 ;
+Calc::OPINDEXBOUND
+ Var1 ;
+Calc::OPINDEXBOUND
+ Var1 ;
+Calc::Computer(TokenHandle handle) 
+Calc::begin start compute expressions
+Calc::get the compute token list handle  40259856
+Calc::start compute token number  40259856
+Calc::OP CODE   3
+Calc::start compute token number  40259864
+Calc::OP CODE   7
+Calc:: Tokenise Excute OP CODE 
+ OP CODE 3 
+Calc::start compute token number  40259872
+Calc::OP CODE   1
+Calc::start compute token number  40259880
+Calc::OP CODE   14
+Calc:: Tokenise Excute OP CODE 
+ OP CODE 1 
+Calc:: math push number 
+ 2 5 
+Calc::start compute token number  40259888
+Calc::OP CODE   3
+Calc::start compute token number  40259896
+Calc::OP CODE   8
+Calc:: Tokenise Excute OP CODE 
+ OP CODE 3 
+Calc:: Tokenise Excute OP CODE 
+ OP CODE 14 
+Calc::calc::mathDeBind get a binding member 
+ Var1 
+Calc::calc::mathDeBind get call binding member 
+ Var1 
+Calc::setReturnString
+ 210
+Calc:: math push number 
+ 2 1050 
+Calc:: Tokenise Excute OP CODE 
+ OP CODE 7 
+Calc:: member = Null ,SetMember int or string 
+calc::getParamStr, get parameter str , p n =  0 
+ calc::getParam, Strget parameter str
+ calc::getParamStr, Get and return type,  2 
+calc::getParamStr, get parameter not type str
+  convert to string,  1050 
+calc::getParamStr, get and return  parameter str
+  calc::getParamStr , Get and return string Value = ,  1050 
+ Var2 1050 
+Calc::member = null , SetMember int or string, call Set String IFC 
+ Var2 02B59918 
+calc::getParamStr, get parameter str , p n =  0 
+ calc::getParam, Strget parameter str
+ calc::getParamStr, Get and return type,  3 
+calc::getParamStr, get and return  parameter str
+  calc::getParamStr , Get and return string Value = ,  1050 
+Calc::member = null , AFTER SetMember int or string, call Set String IFC 
+ Var2 02B59918 
+ END OF SetMember int or string, call Set String IFC 
+Calc::start compute token number  40259904
+Calc::OP CODE   93
+Calc:: end computed expression
+Calc::computeRestart , debug log   
+Calc::computeRestart , End   
+Calc::tokenize
+ Var1 = 5 * 42 ;
+Calc::OPINDEXBOUND
+ Var1 = 5 * 42 ;
+Calc::OPINDEXBOUND
+ Var1 = 5 * 42 ;
+Calc::Computer(TokenHandle handle) 
+Calc::begin start compute expressions
+Calc::get the compute token list handle  40259856
+Calc::start compute token number  40259856
+Calc::OP CODE   3
+Calc::start compute token number  40259864
+Calc::OP CODE   7
+Calc:: Tokenise Excute OP CODE 
+ OP CODE 3 
+Calc::start compute token number  40259872
+Calc::OP CODE   1
+Calc::start compute token number  40259880
+Calc::OP CODE   14
+Calc:: Tokenise Excute OP CODE 
+ OP CODE 1 
+Calc:: math push number 
+ 2 5 
+Calc::start compute token number  40259888
+Calc::OP CODE   1
+Calc::start compute token number  40259896
+Calc::OP CODE   8
+Calc:: Tokenise Excute OP CODE 
+ OP CODE 1 
+Calc:: math push number 
+ 3 42 
+Calc:: Tokenise Excute OP CODE 
+ OP CODE 14 
+Calc:: math push number 
+ 2 210 
+Calc:: Tokenise Excute OP CODE 
+ OP CODE 7 
+Calc:: member = Null ,SetMember int or string 
+calc::getParamStr, get parameter str , p n =  0 
+ calc::getParam, Strget parameter str
+ calc::getParamStr, Get and return type,  2 
+calc::getParamStr, get parameter not type str
+  convert to string,  210 
+calc::getParamStr, get and return  parameter str
+  calc::getParamStr , Get and return string Value = ,  210 
+ Var1 210 
+Calc::member = null , SetMember int or string, call Set String IFC 
+ Var1 02B59278 
+calc::getParamStr, get parameter str , p n =  0 
+ calc::getParam, Strget parameter str
+ calc::getParamStr, Get and return type,  3 
+calc::getParamStr, get and return  parameter str
+  calc::getParamStr , Get and return string Value = ,  210 
+Calc::member = null , AFTER SetMember int or string, call Set String IFC 
+ Var1 02B59278 
+ END OF SetMember int or string, call Set String IFC 
+Calc::start compute token number  40259904
+Calc::OP CODE   93
+Calc:: end computed expression
+Calc::computeRestart , debug log   
+Calc::computeRestart , End   
+Calc::tokenize
+ Var3 = 5 * Var2 ;
+Calc::OPINDEXBOUND
+ Var3 = 5 * Var2 ;
+Calc::OPINDEXBOUND
+ Var3 = 5 * Var2 ;
+Calc::OPINDEXBOUND
+ Var2 ;
+Calc::OPINDEXBOUND
+ Var2 ;
+Calc::Computer(TokenHandle handle) 
+Calc::begin start compute expressions
+Calc::get the compute token list handle  40259856
+Calc::start compute token number  40259856
+Calc::OP CODE   3
+Calc::start compute token number  40259864
+Calc::OP CODE   7
+Calc:: Tokenise Excute OP CODE 
+ OP CODE 3 
+Calc::start compute token number  40259872
+Calc::OP CODE   1
+Calc::start compute token number  40259880
+Calc::OP CODE   14
+Calc:: Tokenise Excute OP CODE 
+ OP CODE 1 
+Calc:: math push number 
+ 2 5 
+Calc::start compute token number  40259888
+Calc::OP CODE   3
+Calc::start compute token number  40259896
+Calc::OP CODE   8
+Calc:: Tokenise Excute OP CODE 
+ OP CODE 3 
+Calc:: Tokenise Excute OP CODE 
+ OP CODE 14 
+Calc::calc::mathDeBind get a binding member 
+ Var2 
+Calc::calc::mathDeBind get call binding member 
+ Var2 
+Calc::setReturnString
+ 1050
+Calc:: math push number 
+ 2 5250 
+Calc:: Tokenise Excute OP CODE 
+ OP CODE 7 
+Calc:: member = Null ,SetMember int or string 
+calc::getParamStr, get parameter str , p n =  0 
+ calc::getParam, Strget parameter str
+ calc::getParamStr, Get and return type,  2 
+calc::getParamStr, get parameter not type str
+  convert to string,  5250 
+calc::getParamStr, get and return  parameter str
+  calc::getParamStr , Get and return string Value = ,  5250 
+ Var3 5250 
+Calc::member = null , SetMember int or string, call Set String IFC 
+ Var3 02B59958 
+calc::getParamStr, get parameter str , p n =  0 
+ calc::getParam, Strget parameter str
+ calc::getParamStr, Get and return type,  3 
+calc::getParamStr, get and return  parameter str
+  calc::getParamStr , Get and return string Value = ,  5250 
+Calc::member = null , AFTER SetMember int or string, call Set String IFC 
+ Var3 02B59958 
+ END OF SetMember int or string, call Set String IFC 
+Calc::start compute token number  40259904
+Calc::OP CODE   93
+Calc:: end computed expression
+Calc::computeRestart , debug log   
+Calc::computeRestart , End   
+Calc::tokenize
+ Var1 = 5 * 42 ;
+Calc::OPINDEXBOUND
+ Var1 = 5 * 42 ;
+Calc::OPINDEXBOUND
+ Var1 = 5 * 42 ;
+Calc::Computer(TokenHandle handle) 
+Calc::begin start compute expressions
+Calc::get the compute token list handle  40259856
+Calc::start compute token number  40259856
+Calc::OP CODE   3
+Calc::start compute token number  40259864
+Calc::OP CODE   7
+Calc:: Tokenise Excute OP CODE 
+ OP CODE 3 
+Calc::start compute token number  40259872
+Calc::OP CODE   1
+Calc::start compute token number  40259880
+Calc::OP CODE   14
+Calc:: Tokenise Excute OP CODE 
+ OP CODE 1 
+Calc:: math push number 
+ 2 5 
+Calc::start compute token number  40259888
+Calc::OP CODE   1
+Calc::start compute token number  40259896
+Calc::OP CODE   8
+Calc:: Tokenise Excute OP CODE 
+ OP CODE 1 
+Calc:: math push number 
+ 3 42 
+Calc:: Tokenise Excute OP CODE 
+ OP CODE 14 
+Calc:: math push number 
+ 2 210 
+Calc:: Tokenise Excute OP CODE 
+ OP CODE 7 
+Calc:: member = Null ,SetMember int or string 
+calc::getParamStr, get parameter str , p n =  0 
+ calc::getParam, Strget parameter str
+ calc::getParamStr, Get and return type,  2 
+calc::getParamStr, get parameter not type str
+  convert to string,  210 
+calc::getParamStr, get and return  parameter str
+  calc::getParamStr , Get and return string Value = ,  210 
+ Var1 210 
+Calc::member = null , SetMember int or string, call Set String IFC 
+ Var1 02B59278 
+calc::getParamStr, get parameter str , p n =  0 
+ calc::getParam, Strget parameter str
+ calc::getParamStr, Get and return type,  3 
+calc::getParamStr, get and return  parameter str
+  calc::getParamStr , Get and return string Value = ,  210 
+Calc::member = null , AFTER SetMember int or string, call Set String IFC 
+ Var1 02B59278 
+ END OF SetMember int or string, call Set String IFC 
+Calc::start compute token number  40259904
+Calc::OP CODE   93
+Calc:: end computed expression
+Calc::computeRestart , debug log   
+Calc::computeRestart , End   
+Calc::tokenize
+ Var4 = 5 * Var3 ;
+Calc::OPINDEXBOUND
+ Var4 = 5 * Var3 ;
+Calc::OPINDEXBOUND
+ Var4 = 5 * Var3 ;
+Calc::OPINDEXBOUND
+ Var3 ;
+Calc::OPINDEXBOUND
+ Var3 ;
+Calc::Computer(TokenHandle handle) 
+Calc::begin start compute expressions
+Calc::get the compute token list handle  40259856
+Calc::start compute token number  40259856
+Calc::OP CODE   3
+Calc::start compute token number  40259864
+Calc::OP CODE   7
+Calc:: Tokenise Excute OP CODE 
+ OP CODE 3 
+Calc::start compute token number  40259872
+Calc::OP CODE   1
+Calc::start compute token number  40259880
+Calc::OP CODE   14
+Calc:: Tokenise Excute OP CODE 
+ OP CODE 1 
+Calc:: math push number 
+ 2 5 
+Calc::start compute token number  40259888
+Calc::OP CODE   3
+Calc::start compute token number  40259896
+Calc::OP CODE   8
+Calc:: Tokenise Excute OP CODE 
+ OP CODE 3 
+Calc:: Tokenise Excute OP CODE 
+ OP CODE 14 
+Calc::calc::mathDeBind get a binding member 
+ Var3 
+Calc::calc::mathDeBind get call binding member 
+ Var3 
+Calc::setReturnString
+ 5250
+Calc:: math push number 
+ 2 26250 
+Calc:: Tokenise Excute OP CODE 
+ OP CODE 7 
+Calc:: member = Null ,SetMember int or string 
+calc::getParamStr, get parameter str , p n =  0 
+ calc::getParam, Strget parameter str
+ calc::getParamStr, Get and return type,  2 
+calc::getParamStr, get parameter not type str
+  convert to string,  26250 
+calc::getParamStr, get and return  parameter str
+  calc::getParamStr , Get and return string Value = ,  26250 
+ Var4 26250 
+Calc::member = null , SetMember int or string, call Set String IFC 
+ Var4 02B59998 
+calc::getParamStr, get parameter str , p n =  0 
+ calc::getParam, Strget parameter str
+ calc::getParamStr, Get and return type,  3 
+calc::getParamStr, get and return  parameter str
+  calc::getParamStr , Get and return string Value = ,  26250 
+Calc::member = null , AFTER SetMember int or string, call Set String IFC 
+ Var4 02B59998 
+ END OF SetMember int or string, call Set String IFC 
+Calc::start compute token number  40259904
+Calc::OP CODE   93
+Calc:: end computed expression
+Calc::computeRestart , debug log   
+Calc::computeRestart , End   
+Calc::tokenize
+ Var1 = 5 * 42 ;
+Calc::OPINDEXBOUND
+ Var1 = 5 * 42 ;
+Calc::OPINDEXBOUND
+ Var1 = 5 * 42 ;
+Calc::Computer(TokenHandle handle) 
+Calc::begin start compute expressions
+Calc::get the compute token list handle  40259856
+Calc::start compute token number  40259856
+Calc::OP CODE   3
+Calc::start compute token number  40259864
+Calc::OP CODE   7
+Calc:: Tokenise Excute OP CODE 
+ OP CODE 3 
+Calc::start compute token number  40259872
+Calc::OP CODE   1
+Calc::start compute token number  40259880
+Calc::OP CODE   14
+Calc:: Tokenise Excute OP CODE 
+ OP CODE 1 
+Calc:: math push number 
+ 2 5 
+Calc::start compute token number  40259888
+Calc::OP CODE   1
+Calc::start compute token number  40259896
+Calc::OP CODE   8
+Calc:: Tokenise Excute OP CODE 
+ OP CODE 1 
+Calc:: math push number 
+ 3 42 
+Calc:: Tokenise Excute OP CODE 
+ OP CODE 14 
+Calc:: math push number 
+ 2 210 
+Calc:: Tokenise Excute OP CODE 
+ OP CODE 7 
+Calc:: member = Null ,SetMember int or string 
+calc::getParamStr, get parameter str , p n =  0 
+ calc::getParam, Strget parameter str
+ calc::getParamStr, Get and return type,  2 
+calc::getParamStr, get parameter not type str
+  convert to string,  210 
+calc::getParamStr, get and return  parameter str
+  calc::getParamStr , Get and return string Value = ,  210 
+ Var1 210 
+Calc::member = null , SetMember int or string, call Set String IFC 
+ Var1 02B59278 
+calc::getParamStr, get parameter str , p n =  0 
+ calc::getParam, Strget parameter str
+ calc::getParamStr, Get and return type,  3 
+calc::getParamStr, get and return  parameter str
+  calc::getParamStr , Get and return string Value = ,  210 
+Calc::member = null , AFTER SetMember int or string, call Set String IFC 
+ Var1 02B59278 
+ END OF SetMember int or string, call Set String IFC 
+Calc::start compute token number  40259904
+Calc::OP CODE   93
+Calc:: end computed expression
+Calc::computeRestart , debug log   
+Calc::computeRestart , End   
+Calc::tokenize
+ Var5 = 5 * Var4 ;
+Calc::OPINDEXBOUND
+ Var5 = 5 * Var4 ;
+Calc::OPINDEXBOUND
+ Var5 = 5 * Var4 ;
+Calc::OPINDEXBOUND
+ Var4 ;
+Calc::OPINDEXBOUND
+ Var4 ;
+Calc::Computer(TokenHandle handle) 
+Calc::begin start compute expressions
+Calc::get the compute token list handle  40259856
+Calc::start compute token number  40259856
+Calc::OP CODE   3
+Calc::start compute token number  40259864
+Calc::OP CODE   7
+Calc:: Tokenise Excute OP CODE 
+ OP CODE 3 
+Calc::start compute token number  40259872
+Calc::OP CODE   1
+Calc::start compute token number  40259880
+Calc::OP CODE   14
+Calc:: Tokenise Excute OP CODE 
+ OP CODE 1 
+Calc:: math push number 
+ 2 5 
+Calc::start compute token number  40259888
+Calc::OP CODE   3
+Calc::start compute token number  40259896
+Calc::OP CODE   8
+Calc:: Tokenise Excute OP CODE 
+ OP CODE 3 
+Calc:: Tokenise Excute OP CODE 
+ OP CODE 14 
+Calc::calc::mathDeBind get a binding member 
+ Var4 
+Calc::calc::mathDeBind get call binding member 
+ Var4 
+Calc::setReturnString
+ 26250
+Calc:: math push number 
+ 2 131250 
+Calc:: Tokenise Excute OP CODE 
+ OP CODE 7 
+Calc:: member = Null ,SetMember int or string 
+calc::getParamStr, get parameter str , p n =  0 
+ calc::getParam, Strget parameter str
+ calc::getParamStr, Get and return type,  2 
+calc::getParamStr, get parameter not type str
+  convert to string,  131250 
+calc::getParamStr, get and return  parameter str
+  calc::getParamStr , Get and return string Value = ,  131250 
+ Var5 131250 
+Calc::member = null , SetMember int or string, call Set String IFC 
+ Var5 02B599D8 
+calc::getParamStr, get parameter str , p n =  0 
+ calc::getParam, Strget parameter str
+ calc::getParamStr, Get and return type,  3 
+calc::getParamStr, get and return  parameter str
+  calc::getParamStr , Get and return string Value = ,  131250 
+Calc::member = null , AFTER SetMember int or string, call Set String IFC 
+ Var5 02B599D8 
+ END OF SetMember int or string, call Set String IFC 
+Calc::start compute token number  40259904
+Calc::OP CODE   93
+Calc:: end computed expression
+Calc::computeRestart , debug log   
+Calc::computeRestart , End   
+Calc::tokenize
+ Var1 = 5 * 42 ;
+Calc::OPINDEXBOUND
+ Var1 = 5 * 42 ;
+Calc::OPINDEXBOUND
+ Var1 = 5 * 42 ;
+Calc::Computer(TokenHandle handle) 
+Calc::begin start compute expressions
+Calc::get the compute token list handle  40259856
+Calc::start compute token number  40259856
+Calc::OP CODE   3
+Calc::start compute token number  40259864
+Calc::OP CODE   7
+Calc:: Tokenise Excute OP CODE 
+ OP CODE 3 
+Calc::start compute token number  40259872
+Calc::OP CODE   1
+Calc::start compute token number  40259880
+Calc::OP CODE   14
+Calc:: Tokenise Excute OP CODE 
+ OP CODE 1 
+Calc:: math push number 
+ 2 5 
+Calc::start compute token number  40259888
+Calc::OP CODE   1
+Calc::start compute token number  40259896
+Calc::OP CODE   8
+Calc:: Tokenise Excute OP CODE 
+ OP CODE 1 
+Calc:: math push number 
+ 3 42 
+Calc:: Tokenise Excute OP CODE 
+ OP CODE 14 
+Calc:: math push number 
+ 2 210 
+Calc:: Tokenise Excute OP CODE 
+ OP CODE 7 
+Calc:: member = Null ,SetMember int or string 
+calc::getParamStr, get parameter str , p n =  0 
+ calc::getParam, Strget parameter str
+ calc::getParamStr, Get and return type,  2 
+calc::getParamStr, get parameter not type str
+  convert to string,  210 
+calc::getParamStr, get and return  parameter str
+  calc::getParamStr , Get and return string Value = ,  210 
+ Var1 210 
+Calc::member = null , SetMember int or string, call Set String IFC 
+ Var1 02B59278 
+calc::getParamStr, get parameter str , p n =  0 
+ calc::getParam, Strget parameter str
+ calc::getParamStr, Get and return type,  3 
+calc::getParamStr, get and return  parameter str
+  calc::getParamStr , Get and return string Value = ,  210 
+Calc::member = null , AFTER SetMember int or string, call Set String IFC 
+ Var1 02B59278 
+ END OF SetMember int or string, call Set String IFC 
+Calc::start compute token number  40259904
+Calc::OP CODE   93
+Calc:: end computed expression
+Calc::computeRestart , debug log   
+Calc::computeRestart , End   
+Calc::tokenize
+ Var6 = 5 * Var5 ;
+Calc::OPINDEXBOUND
+ Var6 = 5 * Var5 ;
+Calc::OPINDEXBOUND
+ Var6 = 5 * Var5 ;
+Calc::OPINDEXBOUND
+ Var5 ;
+Calc::OPINDEXBOUND
+ Var5 ;
+Calc::Computer(TokenHandle handle) 
+Calc::begin start compute expressions
+Calc::get the compute token list handle  40259856
+Calc::start compute token number  40259856
+Calc::OP CODE   3
+Calc::start compute token number  40259864
+Calc::OP CODE   7
+Calc:: Tokenise Excute OP CODE 
+ OP CODE 3 
+Calc::start compute token number  40259872
+Calc::OP CODE   1
+Calc::start compute token number  40259880
+Calc::OP CODE   14
+Calc:: Tokenise Excute OP CODE 
+ OP CODE 1 
+Calc:: math push number 
+ 2 5 
+Calc::start compute token number  40259888
+Calc::OP CODE   3
+Calc::start compute token number  40259896
+Calc::OP CODE   8
+Calc:: Tokenise Excute OP CODE 
+ OP CODE 3 
+Calc:: Tokenise Excute OP CODE 
+ OP CODE 14 
+Calc::calc::mathDeBind get a binding member 
+ Var5 
+Calc::calc::mathDeBind get call binding member 
+ Var5 
+Calc::setReturnString
+ 131250
+Calc:: math push number 
+ 2 656250 
+Calc:: Tokenise Excute OP CODE 
+ OP CODE 7 
+Calc:: member = Null ,SetMember int or string 
+calc::getParamStr, get parameter str , p n =  0 
+ calc::getParam, Strget parameter str
+ calc::getParamStr, Get and return type,  2 
+calc::getParamStr, get parameter not type str
+  convert to string,  656250 
+calc::getParamStr, get and return  parameter str
+  calc::getParamStr , Get and return string Value = ,  656250 
+ Var6 656250 
+Calc::member = null , SetMember int or string, call Set String IFC 
+ Var6 02B59A18 
+calc::getParamStr, get parameter str , p n =  0 
+ calc::getParam, Strget parameter str
+ calc::getParamStr, Get and return type,  3 
+calc::getParamStr, get and return  parameter str
+  calc::getParamStr , Get and return string Value = ,  656250 
+Calc::member = null , AFTER SetMember int or string, call Set String IFC 
+ Var6 02B59A18 
+ END OF SetMember int or string, call Set String IFC 
+Calc::start compute token number  40259904
+Calc::OP CODE   93
+Calc:: end computed expression
+Calc::computeRestart , debug log   
+Calc::computeRestart , End   
+Calc::tokenize
+ Var1 = 5 * 42 ;
+Calc::OPINDEXBOUND
+ Var1 = 5 * 42 ;
+Calc::OPINDEXBOUND
+ Var1 = 5 * 42 ;
+Calc::Computer(TokenHandle handle) 
+Calc::begin start compute expressions
+Calc::get the compute token list handle  40259856
+Calc::start compute token number  40259856
+Calc::OP CODE   3
+Calc::start compute token number  40259864
+Calc::OP CODE   7
+Calc:: Tokenise Excute OP CODE 
+ OP CODE 3 
+Calc::start compute token number  40259872
+Calc::OP CODE   1
+Calc::start compute token number  40259880
+Calc::OP CODE   14
+Calc:: Tokenise Excute OP CODE 
+ OP CODE 1 
+Calc:: math push number 
+ 2 5 
+Calc::start compute token number  40259888
+Calc::OP CODE   1
+Calc::start compute token number  40259896
+Calc::OP CODE   8
+Calc:: Tokenise Excute OP CODE 
+ OP CODE 1 
+Calc:: math push number 
+ 3 42 
+Calc:: Tokenise Excute OP CODE 
+ OP CODE 14 
+Calc:: math push number 
+ 2 210 
+Calc:: Tokenise Excute OP CODE 
+ OP CODE 7 
+Calc:: member = Null ,SetMember int or string 
+calc::getParamStr, get parameter str , p n =  0 
+ calc::getParam, Strget parameter str
+ calc::getParamStr, Get and return type,  2 
+calc::getParamStr, get parameter not type str
+  convert to string,  210 
+calc::getParamStr, get and return  parameter str
+  calc::getParamStr , Get and return string Value = ,  210 
+ Var1 210 
+Calc::member = null , SetMember int or string, call Set String IFC 
+ Var1 02B59278 
+calc::getParamStr, get parameter str , p n =  0 
+ calc::getParam, Strget parameter str
+ calc::getParamStr, Get and return type,  3 
+calc::getParamStr, get and return  parameter str
+  calc::getParamStr , Get and return string Value = ,  210 
+Calc::member = null , AFTER SetMember int or string, call Set String IFC 
+ Var1 02B59278 
+ END OF SetMember int or string, call Set String IFC 
+Calc::start compute token number  40259904
+Calc::OP CODE   93
+Calc:: end computed expression
+Calc::computeRestart , debug log   
+Calc::computeRestart , End   
+Calc::tokenize
+ Var7 = 5 * Var6 ;
+Calc::OPINDEXBOUND
+ Var7 = 5 * Var6 ;
+Calc::OPINDEXBOUND
+ Var7 = 5 * Var6 ;
+Calc::OPINDEXBOUND
+ Var6 ;
+Calc::OPINDEXBOUND
+ Var6 ;
+Calc::Computer(TokenHandle handle) 
+Calc::begin start compute expressions
+Calc::get the compute token list handle  40259856
+Calc::start compute token number  40259856
+Calc::OP CODE   3
+Calc::start compute token number  40259864
+Calc::OP CODE   7
+Calc:: Tokenise Excute OP CODE 
+ OP CODE 3 
+Calc::start compute token number  40259872
+Calc::OP CODE   1
+Calc::start compute token number  40259880
+Calc::OP CODE   14
+Calc:: Tokenise Excute OP CODE 
+ OP CODE 1 
+Calc:: math push number 
+ 2 5 
+Calc::start compute token number  40259888
+Calc::OP CODE   3
+Calc::start compute token number  40259896
+Calc::OP CODE   8
+Calc:: Tokenise Excute OP CODE 
+ OP CODE 3 
+Calc:: Tokenise Excute OP CODE 
+ OP CODE 14 
+Calc::calc::mathDeBind get a binding member 
+ Var6 
+Calc::calc::mathDeBind get call binding member 
+ Var6 
+Calc::setReturnString
+ 656250
+Calc:: math push number 
+ 2 3.28125e+06 
+Calc:: Tokenise Excute OP CODE 
+ OP CODE 7 
+Calc:: member = Null ,SetMember int or string 
+calc::getParamStr, get parameter str , p n =  0 
+ calc::getParam, Strget parameter str
+ calc::getParamStr, Get and return type,  2 
+calc::getParamStr, get parameter not type str
+  convert to string,  3281250 
+calc::getParamStr, get and return  parameter str
+  calc::getParamStr , Get and return string Value = ,  3281250 
+ Var7 3281250 
+Calc::member = null , SetMember int or string, call Set String IFC 
+ Var7 02B59A58 
+calc::getParamStr, get parameter str , p n =  0 
+ calc::getParam, Strget parameter str
+ calc::getParamStr, Get and return type,  3 
+calc::getParamStr, get and return  parameter str
+  calc::getParamStr , Get and return string Value = ,  3281250 
+Calc::member = null , AFTER SetMember int or string, call Set String IFC 
+ Var7 02B59A58 
+ END OF SetMember int or string, call Set String IFC 
+Calc::start compute token number  40259904
+Calc::OP CODE   93
+Calc:: end computed expression
+Calc::computeRestart , debug log   
+Calc::computeRestart , End   
+Calc::tokenize
+ Var1 = 5 * 42 ;
+Calc::OPINDEXBOUND
+ Var1 = 5 * 42 ;
+Calc::OPINDEXBOUND
+ Var1 = 5 * 42 ;
+Calc::Computer(TokenHandle handle) 
+Calc::begin start compute expressions
+Calc::get the compute token list handle  40259856
+Calc::start compute token number  40259856
+Calc::OP CODE   3
+Calc::start compute token number  40259864
+Calc::OP CODE   7
+Calc:: Tokenise Excute OP CODE 
+ OP CODE 3 
+Calc::start compute token number  40259872
+Calc::OP CODE   1
+Calc::start compute token number  40259880
+Calc::OP CODE   14
+Calc:: Tokenise Excute OP CODE 
+ OP CODE 1 
+Calc:: math push number 
+ 2 5 
+Calc::start compute token number  40259888
+Calc::OP CODE   1
+Calc::start compute token number  40259896
+Calc::OP CODE   8
+Calc:: Tokenise Excute OP CODE 
+ OP CODE 1 
+Calc:: math push number 
+ 3 42 
+Calc:: Tokenise Excute OP CODE 
+ OP CODE 14 
+Calc:: math push number 
+ 2 210 
+Calc:: Tokenise Excute OP CODE 
+ OP CODE 7 
+Calc:: member = Null ,SetMember int or string 
+calc::getParamStr, get parameter str , p n =  0 
+ calc::getParam, Strget parameter str
+ calc::getParamStr, Get and return type,  2 
+calc::getParamStr, get parameter not type str
+  convert to string,  210 
+calc::getParamStr, get and return  parameter str
+  calc::getParamStr , Get and return string Value = ,  210 
+ Var1 210 
+Calc::member = null , SetMember int or string, call Set String IFC 
+ Var1 02B59278 
+calc::getParamStr, get parameter str , p n =  0 
+ calc::getParam, Strget parameter str
+ calc::getParamStr, Get and return type,  3 
+calc::getParamStr, get and return  parameter str
+  calc::getParamStr , Get and return string Value = ,  210 
+Calc::member = null , AFTER SetMember int or string, call Set String IFC 
+ Var1 02B59278 
+ END OF SetMember int or string, call Set String IFC 
+Calc::start compute token number  40259904
+Calc::OP CODE   93
+Calc:: end computed expression
+Calc::computeRestart , debug log   
+Calc::computeRestart , End   
+Calc::tokenize
+ Var8 = 5 * Var7 ;
+Calc::OPINDEXBOUND
+ Var8 = 5 * Var7 ;
+Calc::OPINDEXBOUND
+ Var8 = 5 * Var7 ;
+Calc::OPINDEXBOUND
+ Var7 ;
+Calc::OPINDEXBOUND
+ Var7 ;
+Calc::Computer(TokenHandle handle) 
+Calc::begin start compute expressions
+Calc::get the compute token list handle  40259856
+Calc::start compute token number  40259856
+Calc::OP CODE   3
+Calc::start compute token number  40259864
+Calc::OP CODE   7
+Calc:: Tokenise Excute OP CODE 
+ OP CODE 3 
+Calc::start compute token number  40259872
+Calc::OP CODE   1
+Calc::start compute token number  40259880
+Calc::OP CODE   14
+Calc:: Tokenise Excute OP CODE 
+ OP CODE 1 
+Calc:: math push number 
+ 2 5 
+Calc::start compute token number  40259888
+Calc::OP CODE   3
+Calc::start compute token number  40259896
+Calc::OP CODE   8
+Calc:: Tokenise Excute OP CODE 
+ OP CODE 3 
+Calc:: Tokenise Excute OP CODE 
+ OP CODE 14 
+Calc::calc::mathDeBind get a binding member 
+ Var7 
+Calc::calc::mathDeBind get call binding member 
+ Var7 
+Calc::setReturnString
+ 3281250
+Calc:: math push number 
+ 2 1.64063e+07 
+Calc:: Tokenise Excute OP CODE 
+ OP CODE 7 
+Calc:: member = Null ,SetMember int or string 
+calc::getParamStr, get parameter str , p n =  0 
+ calc::getParam, Strget parameter str
+ calc::getParamStr, Get and return type,  2 
+calc::getParamStr, get parameter not type str
+  convert to string,  16406250 
+calc::getParamStr, get and return  parameter str
+  calc::getParamStr , Get and return string Value = ,  16406250 
+ Var8 16406250 
+Calc::member = null , SetMember int or string, call Set String IFC 
+ Var8 02B59A98 
+calc::getParamStr, get parameter str , p n =  0 
+ calc::getParam, Strget parameter str
+ calc::getParamStr, Get and return type,  3 
+calc::getParamStr, get and return  parameter str
+  calc::getParamStr , Get and return string Value = ,  16406250 
+Calc::member = null , AFTER SetMember int or string, call Set String IFC 
+ Var8 02B59A98 
+ END OF SetMember int or string, call Set String IFC 
+Calc::start compute token number  40259904
+Calc::OP CODE   93
+Calc:: end computed expression
+Calc::computeRestart , debug log   
+Calc::computeRestart , End   
+Calc::tokenize
+ Var1 = 5 * 42 ;
+Calc::OPINDEXBOUND
+ Var1 = 5 * 42 ;
+Calc::OPINDEXBOUND
+ Var1 = 5 * 42 ;
+Calc::Computer(TokenHandle handle) 
+Calc::begin start compute expressions
+Calc::get the compute token list handle  40259856
+Calc::start compute token number  40259856
+Calc::OP CODE   3
+Calc::start compute token number  40259864
+Calc::OP CODE   7
+Calc:: Tokenise Excute OP CODE 
+ OP CODE 3 
+Calc::start compute token number  40259872
+Calc::OP CODE   1
+Calc::start compute token number  40259880
+Calc::OP CODE   14
+Calc:: Tokenise Excute OP CODE 
+ OP CODE 1 
+Calc:: math push number 
+ 2 5 
+Calc::start compute token number  40259888
+Calc::OP CODE   1
+Calc::start compute token number  40259896
+Calc::OP CODE   8
+Calc:: Tokenise Excute OP CODE 
+ OP CODE 1 
+Calc:: math push number 
+ 3 42 
+Calc:: Tokenise Excute OP CODE 
+ OP CODE 14 
+Calc:: math push number 
+ 2 210 
+Calc:: Tokenise Excute OP CODE 
+ OP CODE 7 
+Calc:: member = Null ,SetMember int or string 
+calc::getParamStr, get parameter str , p n =  0 
+ calc::getParam, Strget parameter str
+ calc::getParamStr, Get and return type,  2 
+calc::getParamStr, get parameter not type str
+  convert to string,  210 
+calc::getParamStr, get and return  parameter str
+  calc::getParamStr , Get and return string Value = ,  210 
+ Var1 210 
+Calc::member = null , SetMember int or string, call Set String IFC 
+ Var1 02B59278 
+calc::getParamStr, get parameter str , p n =  0 
+ calc::getParam, Strget parameter str
+ calc::getParamStr, Get and return type,  3 
+calc::getParamStr, get and return  parameter str
+  calc::getParamStr , Get and return string Value = ,  210 
+Calc::member = null , AFTER SetMember int or string, call Set String IFC 
+ Var1 02B59278 
+ END OF SetMember int or string, call Set String IFC 
+Calc::start compute token number  40259904
+Calc::OP CODE   93
+Calc:: end computed expression
+Calc::computeRestart , debug log   
+Calc::computeRestart , End   
+Calc::tokenize
+ Var9 = 5 * Var8 ;
+Calc::OPINDEXBOUND
+ Var9 = 5 * Var8 ;
+Calc::OPINDEXBOUND
+ Var9 = 5 * Var8 ;
+Calc::OPINDEXBOUND
+ Var8 ;
+Calc::OPINDEXBOUND
+ Var8 ;
+Calc::Computer(TokenHandle handle) 
+Calc::begin start compute expressions
+Calc::get the compute token list handle  40259856
+Calc::start compute token number  40259856
+Calc::OP CODE   3
+Calc::start compute token number  40259864
+Calc::OP CODE   7
+Calc:: Tokenise Excute OP CODE 
+ OP CODE 3 
+Calc::start compute token number  40259872
+Calc::OP CODE   1
+Calc::start compute token number  40259880
+Calc::OP CODE   14
+Calc:: Tokenise Excute OP CODE 
+ OP CODE 1 
+Calc:: math push number 
+ 2 5 
+Calc::start compute token number  40259888
+Calc::OP CODE   3
+Calc::start compute token number  40259896
+Calc::OP CODE   8
+Calc:: Tokenise Excute OP CODE 
+ OP CODE 3 
+Calc:: Tokenise Excute OP CODE 
+ OP CODE 14 
+Calc::calc::mathDeBind get a binding member 
+ Var8 
+Calc::calc::mathDeBind get call binding member 
+ Var8 
+Calc::setReturnString
+ 16406250
+Calc:: math push number 
+ 2 8.20313e+07 
+Calc:: Tokenise Excute OP CODE 
+ OP CODE 7 
+Calc:: member = Null ,SetMember int or string 
+calc::getParamStr, get parameter str , p n =  0 
+ calc::getParam, Strget parameter str
+ calc::getParamStr, Get and return type,  2 
+calc::getParamStr, get parameter not type str
+  convert to string,  82031250 
+calc::getParamStr, get and return  parameter str
+  calc::getParamStr , Get and return string Value = ,  82031250 
+ Var9 82031250 
+Calc::member = null , SetMember int or string, call Set String IFC 
+ Var9 02B59AD8 
+calc::getParamStr, get parameter str , p n =  0 
+ calc::getParam, Strget parameter str
+ calc::getParamStr, Get and return type,  3 
+calc::getParamStr, get and return  parameter str
+  calc::getParamStr , Get and return string Value = ,  82031250 
+Calc::member = null , AFTER SetMember int or string, call Set String IFC 
+ Var9 02B59AD8 
+ END OF SetMember int or string, call Set String IFC 
+Calc::start compute token number  40259904
+Calc::OP CODE   93
+Calc:: end computed expression
+Calc::computeRestart , debug log   
+Calc::computeRestart , End   
+Calc::tokenize
+ Var1 = 5 * 42 ;
+Calc::OPINDEXBOUND
+ Var1 = 5 * 42 ;
+Calc::OPINDEXBOUND
+ Var1 = 5 * 42 ;
+Calc::Computer(TokenHandle handle) 
+Calc::begin start compute expressions
+Calc::get the compute token list handle  40259856
+Calc::start compute token number  40259856
+Calc::OP CODE   3
+Calc::start compute token number  40259864
+Calc::OP CODE   7
+Calc:: Tokenise Excute OP CODE 
+ OP CODE 3 
+Calc::start compute token number  40259872
+Calc::OP CODE   1
+Calc::start compute token number  40259880
+Calc::OP CODE   14
+Calc:: Tokenise Excute OP CODE 
+ OP CODE 1 
+Calc:: math push number 
+ 2 5 
+Calc::start compute token number  40259888
+Calc::OP CODE   1
+Calc::start compute token number  40259896
+Calc::OP CODE   8
+Calc:: Tokenise Excute OP CODE 
+ OP CODE 1 
+Calc:: math push number 
+ 3 42 
+Calc:: Tokenise Excute OP CODE 
+ OP CODE 14 
+Calc:: math push number 
+ 2 210 
+Calc:: Tokenise Excute OP CODE 
+ OP CODE 7 
+Calc:: member = Null ,SetMember int or string 
+calc::getParamStr, get parameter str , p n =  0 
+ calc::getParam, Strget parameter str
+ calc::getParamStr, Get and return type,  2 
+calc::getParamStr, get parameter not type str
+  convert to string,  210 
+calc::getParamStr, get and return  parameter str
+  calc::getParamStr , Get and return string Value = ,  210 
+ Var1 210 
+Calc::member = null , SetMember int or string, call Set String IFC 
+ Var1 02B59278 
+calc::getParamStr, get parameter str , p n =  0 
+ calc::getParam, Strget parameter str
+ calc::getParamStr, Get and return type,  3 
+calc::getParamStr, get and return  parameter str
+  calc::getParamStr , Get and return string Value = ,  210 
+Calc::member = null , AFTER SetMember int or string, call Set String IFC 
+ Var1 02B59278 
+ END OF SetMember int or string, call Set String IFC 
+Calc::start compute token number  40259904
+Calc::OP CODE   93
+Calc:: end computed expression
+Calc::computeRestart , debug log   
+Calc::computeRestart , End   
+Calc::tokenize
+ Var10 = 5 * Var9 ;
+Calc::OPINDEXBOUND
+ Var10 = 5 * Var9 ;
+Calc::OPINDEXBOUND
+ Var10 = 5 * Var9 ;
+Calc::OPINDEXBOUND
+ Var9 ;
+Calc::OPINDEXBOUND
+ Var9 ;
+Calc::Computer(TokenHandle handle) 
+Calc::begin start compute expressions
+Calc::get the compute token list handle  40259856
+Calc::start compute token number  40259856
+Calc::OP CODE   3
+Calc::start compute token number  40259864
+Calc::OP CODE   7
+Calc:: Tokenise Excute OP CODE 
+ OP CODE 3 
+Calc::start compute token number  40259872
+Calc::OP CODE   1
+Calc::start compute token number  40259880
+Calc::OP CODE   14
+Calc:: Tokenise Excute OP CODE 
+ OP CODE 1 
+Calc:: math push number 
+ 2 5 
+Calc::start compute token number  40259888
+Calc::OP CODE   3
+Calc::start compute token number  40259896
+Calc::OP CODE   8
+Calc:: Tokenise Excute OP CODE 
+ OP CODE 3 
+Calc:: Tokenise Excute OP CODE 
+ OP CODE 14 
+Calc::calc::mathDeBind get a binding member 
+ Var9 
+Calc::calc::mathDeBind get call binding member 
+ Var9 
+Calc::setReturnString
+ 82031250
+Calc:: math push number 
+ 2 4.10156e+08 
+Calc:: Tokenise Excute OP CODE 
+ OP CODE 7 
+Calc:: member = Null ,SetMember int or string 
+calc::getParamStr, get parameter str , p n =  0 
+ calc::getParam, Strget parameter str
+ calc::getParamStr, Get and return type,  2 
+calc::getParamStr, get parameter not type str
+  convert to string,  410156250 
+calc::getParamStr, get and return  parameter str
+  calc::getParamStr , Get and return string Value = ,  410156250 
+ Var10 410156250 
+Calc::member = null , SetMember int or string, call Set String IFC 
+ Var10 02B59B60 
+calc::getParamStr, get parameter str , p n =  0 
+ calc::getParam, Strget parameter str
+ calc::getParamStr, Get and return type,  3 
+calc::getParamStr, get and return  parameter str
+  calc::getParamStr , Get and return string Value = ,  410156250 
+Calc::member = null , AFTER SetMember int or string, call Set String IFC 
+ Var10 02B59B60 
+ END OF SetMember int or string, call Set String IFC 
+Calc::start compute token number  40259904
+Calc::OP CODE   93
+Calc:: end computed expression
