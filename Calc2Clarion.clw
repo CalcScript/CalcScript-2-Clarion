@@ -43,21 +43,22 @@ QVars       QUEUE
 VarName         cstring(25)
 Calcvars        &calcvarsclass
 calresult       string(255)
-Calcpreviousvalue   LONG        
+Calcpreviousvalue   string(255)       
             END
 
 Calc2Expression  &Icalcscript 
 Debugfilename   cstring(255)
 Expressionstr   cstring(255)
+CTR LONG    
     CODE
         
      Calc2Expression  &=  Calccreatescript() 
         Debugfilename = 'Calc2 debug.txt'
-        Calc2Expression.logTo(Debugfilename)
+       ! Calc2Expression.logTo(Debugfilename)
         
-    loop ctr# = 1 to 10
+    loop ctr = 1 to 50
            
-        qvars.VarName = 'Var'&ctr#
+        qvars.VarName = 'Var'&ctr
         qvars.Calcvars &= new(calcvarsclass)
         add(qvars)
         
@@ -66,19 +67,19 @@ Expressionstr   cstring(255)
         
     END    
 
-    Loop ctr# = 1 to 10 
-          get(QVars,Ctr#)
-          Expressionstr = 'Var1 = 5 * 42 ;'
+        Loop ctr = 1 to 50
+            get(QVars,Ctr)
+          Expressionstr = 'Var1 = 1 * 2 ;'
           qvars.calresult = Calc2Expression.computeStrFromString(Expressionstr)    
           put(QVars)
         
-          if CTR# > 1
-             Expressionstr = 'Var'&CTR#&' = 5 * Var'&CTR#-1&' ;'
+          if CTR > 1
+             Expressionstr = 'Var'&CTR&' = 2 * Var'&CTR-1&' ;'
              qvars.calresult = Calc2Expression.computeStrFromString(Expressionstr)    
                 put(QVars)
                 
                 
-                Expressionstr = 'Var'&CTR#-1&';'
+                Expressionstr = 'Var'&CTR-1&';'
                 qvars.Calcpreviousvalue = Calc2Expression.computeIntFromString(Expressionstr)
                 put(QVars)
                  
@@ -93,7 +94,8 @@ Window                  WINDOW('Cacl 2'),AT(,,523,344),GRAY,FONT('Segoe UI',8,,F
                             BUTTON('&OK'),AT(419,313,41,14),USE(?OkButton),DEFAULT
                             BUTTON('&Cancel'),AT(461,313,42,14),USE(?CancelButton),STD(STD:Close)
                             LIST,AT(19,13,483,270),USE(?LIST1),FROM(qvars),FORMAT('53L(2)|M~Var Name' & |
-                                '~#1#72L(2)|M~Result~#3#20L(2)|M~Previous Value~#4#')
+                                '~@s25@#1#255L(2)|M~Result~@n25.2@#3#255L(2)|M~Previous Value~@n' & |
+                                '25.2@#4#')
                         END
 
 
@@ -133,19 +135,10 @@ calcvarsclass.ICgetSetReal.set             PROCEDURE  (real d) !, raw  ! set flo
     self.Varany = d       
 
 calcvarsclass.ICgetSetCString.get              PROCEDURE ()!,proc, *cstring  , raw! get cstring  
+areturnvalue  cstring(255)   
     CODE
-    if Not self.cstringref &= NULL
-       dispose(self.cstringref)
-    END
-    if not self.Varany &= NULL    
-        self.cstringref  &= new(cstring(len(clip(self.Varany))+1)) ! data length
-        self.cstringref = self.Varany 
-     ELSE
-        self.cstringref  &= new(cstring(1))   ! default length
-        self.cstringref = '' 
-    END 
-   !     message('  get '&self.cstringref)
-     return self.cstringref
+     areturnvalue =  self.Varany
+     return  areturnvalue 
         
 calcvarsclass.ICgetSetCString.set                              PROCEDURE (const *cstring char)! , raw ! set cstring 
     CODE       
