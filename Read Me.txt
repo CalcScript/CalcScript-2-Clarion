@@ -1,0 +1,7 @@
+For clarion developers: To run calc script 2 with your clarion win32 exe or DLL down load VS 2015 runtime for CPP:
+
+download Visual C++ Redistributable for Visual Studio 2015 at : https://www.microsoft.com/en-nz/download/details.aspx?id=48145
+
+The Full calc script 2 runtime supports Database Drivers and Queues.
+
+Calc Script 3 is the big brother of calc script 2 and is a scripting language for all major platforms.
