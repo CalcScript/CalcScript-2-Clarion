@@ -338,9 +338,9 @@ isetclacalcscriptevents     INTERFACE
 set                             procedure(iclacalcscriptevents iclacalcscripteventsref)  ! set as call back for events
                             END
 
-IsetIcalcscript          INTERFACE
-set                         procedure(Icalcscript Icalcscriptref) ! set Icalcscript 
-                         END
+!IsetIcalcscript          INTERFACE
+!set                         procedure(Icalcscript Icalcscriptref) ! set Icalcscript 
+!                         END
 
 IsetICalcscriptmembers        INTERFACE
 set                             procedure(ICalcBindable ICalcBindableref) ! get ICalcscript_getSetObject interface
@@ -533,17 +533,17 @@ Idisposeobject      INTERFACE
 disposeobject            procedure  ! dispose object
                     END
 
-Iobjectaddress      INTERFACE
-getaddress              procedure(),long,VIRTUAL  ! address
-                     END
+!Iobjectaddress      INTERFACE
+!getaddress              procedure(),long,VIRTUAL  ! address
+!                     END
 
 ! setup bindings to bind class to Calcscript Ifc ICalcscript_getSetObject
 
-Ibindifc            INTERFACE
-bindinterface          PROCEDURE(string ObjectName,ICalcBindable ICalcBindableref),VIRTUAL  ! bind an object name to interface
-bindable               PROCEDURE(string ObjectName),VIRTUAL  ! bind an object name 
-binddefaults            procedure,VIRTUAL  ! bind default objects   
-                    END
+!Ibindifc            INTERFACE
+!bindinterface          PROCEDURE(string ObjectName,ICalcBindable ICalcBindableref),VIRTUAL  ! bind an object name to interface
+!bindable               PROCEDURE(string ObjectName),VIRTUAL  ! bind an object name 
+!binddefaults            procedure,VIRTUAL  ! bind default objects   
+!                    END
 
 C_Ibindifc            INTERFACE
 bindable               PROCEDURE(const *cstring ObjectName),VIRTUAL  ! bind an object name 
@@ -551,9 +551,9 @@ bindable               PROCEDURE(const *cstring ObjectName),VIRTUAL  ! bind an o
 
 
 
-IdataContext        INTERFACE
-getcontext              procedure,*cstring,VIRTUAL   ! get context data that determines the object path seperrated by dots  Functions.Source, Windows.Controls.add() ect 
-                    END
+!IdataContext        INTERFACE
+!getcontext              procedure,*cstring,VIRTUAL   ! get context data that determines the object path seperrated by dots  Functions.Source, Windows.Controls.add() ect 
+!                    END
 
 Icallcalc           INTERFACE   
 Executecalc             procedure(string expression)  ! calc expression
