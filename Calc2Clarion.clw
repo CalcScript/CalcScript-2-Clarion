@@ -231,7 +231,7 @@ Calcexpressionsstring  cstring(1000)
 Window                  WINDOW('Calc 2'),AT(,,523,344),GRAY,FONT('Segoe UI',8,,FONT:regular)
                             SHEET,AT(10,12,501,315),USE(?SHEET1)
                                 TAB('Queues'),USE(?TAB1:2)
-                                    BUTTON('Calc Some Queue Values'),AT(25,41),USE(?Calcsomequeuevalues)
+                                    BUTTON('Create Order!'),AT(25,41),USE(?Calcsomequeuevalues)
                                     LIST,AT(26,68,452,239),USE(?LIST1),FROM(Orderslist), |
                                         FORMAT('59L(2)|M~Ordder No~71L(2)|M~Order Date~@d8@45L(2' & |
                                         ')|M~CustomerID~@n6@40L(2)|M~Qty~@n62@56L(2)|M~StockPric' & |
@@ -275,6 +275,7 @@ debugfilename           cstring(255)
     ACCEPT
         case field()
         of ?BUTTONcalc
+        orof ?Calcsomequeuevalues
            case event() 
             of EVENT:Accepted
             if Preparsedhandle = FALSE
@@ -407,11 +408,7 @@ rtncontext  cstring(25)
               
                 lp1 = calcscriptref.getParamStr(1)
                 lp2 = calcscriptref.getParamStr(2)
-                
-                ! Calc Lp2
-                
-                message(' Lp2 '&Lp2)
-                
+                  
                 self.Queuelistsref.QName = upper(Lp) 
                 get(self.Queuelistsref,'QName')
                 if not errorcode()
@@ -433,7 +430,6 @@ rtncontext  cstring(25)
                 get(self.Queuelistsref,'QName')
                 if not errorcode()
                     if not self.Queuelistsref.q &= NULL
-                        message(' r= '&records(self.Queuelistsref.q))
                       calcscriptref.setReturnInteger(records(self.Queuelistsref.q))      
                     END
                 END        
