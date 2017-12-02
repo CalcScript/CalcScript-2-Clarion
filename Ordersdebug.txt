@@ -1,0 +1,241 @@
+start logging 
+Calc::bindobjectifc 
+ queues 001E94DB
+Calc::bindBindable name 
+ queues 02457930 001E94DB
+Calc::bindBindable before assign address Bindable  
+ queues 02457930 001E94DB
+Calc::bindBindable before assign address Bindable  
+ queues 02457930 001E94DB
+Calc::bindBindable after assign address Bindable  
+ queues 02457930 001E94DB
+Calc::bindBindable after Bind  
+ queues 02457930 001E94DB
+Calc::tokenize
+ Queues.Set('Orderslist','OrderNo', 1+Queues.Count('Orderslist'));Queues.Set('Orderslist','OrderDate',today());Queues.add('Orderslist');
+Calc::OPINDEXBOUND
+ Queues.Set('Orderslist','OrderNo', 1+Queues.Count('Orderslist'));Queues.Set('Orderslist','OrderDate',today());Queues.add('Orderslist');
+Calc::OPINDEXBOUND
+ Queues.Set('Orderslist','OrderNo', 1+Queues.Count('Orderslist'));Queues.Set('Orderslist','OrderDate',today());Queues.add('Orderslist');
+Calc::OPINDEXBOUND
+ Queues.Count('Orderslist'));Queues.Set('Orderslist','OrderDate',today());Queues.add('Orderslist');
+Calc::OPINDEXBOUND
+ Queues.Count('Orderslist'));Queues.Set('Orderslist','OrderDate',today());Queues.add('Orderslist');
+Calc::OPINDEXBOUND
+ Queues.Set('Orderslist','OrderDate',today());Queues.add('Orderslist');
+Calc::OPINDEXBOUND
+ Queues.Set('Orderslist','OrderDate',today());Queues.add('Orderslist');
+Calc::OPINDEXBOUND
+ today());Queues.add('Orderslist');
+Calc::OPINDEXBOUND
+ today());Queues.add('Orderslist');
+Calc::OPINDEXBOUND
+ Queues.add('Orderslist');
+Calc::OPINDEXBOUND
+ Queues.add('Orderslist');
+Calc::Before computestr with Tokens Handle
+Calc::computeRestart , debug log   
+Calc::computeRestart , End   
+Calc::Computer(TokenHandle handle) 
+Calc::begin start compute expressions
+Calc::get the compute token list handle  38685264
+Calc::start compute token number  38685264
+Calc::OP CODE   3
+Calc::start compute token number  38685272
+Calc::OP CODE   9
+Calc:: Tokenise Excute OP CODE 
+ OP CODE 3 
+Calc::start compute token number  38685280
+Calc::OP CODE   4
+Calc:: Tokenise Excute OP CODE 
+ OP CODE 9 
+Calc::start compute token number  38685288
+Calc::OP CODE   0
+Calc::start compute token number  38685296
+Calc::OP CODE   79
+Calc:: Tokenise Excute OP CODE 
+ OP CODE 0 
+Calc::start compute token number  38685304
+Calc::OP CODE   0
+Calc::start compute token number  38685312
+Calc::OP CODE   79
+Calc:: Tokenise Excute OP CODE 
+ OP CODE 0 
+Calc:: Tokenise Excute OP CODE 
+ OP CODE 79 
+Calc::start compute token number  38685320
+Calc::OP CODE   1
+Calc::start compute token number  38685328
+Calc::OP CODE   17
+Calc:: Tokenise Excute OP CODE 
+ OP CODE 1 
+Calc:: math push number 
+ 4 1 
+Calc::start compute token number  38685336
+Calc::OP CODE   3
+Calc::start compute token number  38685344
+Calc::OP CODE   9
+Calc:: Tokenise Excute OP CODE 
+ OP CODE 3 
+Calc::start compute token number  38685352
+Calc::OP CODE   4
+Calc:: Tokenise Excute OP CODE 
+ OP CODE 9 
+Calc::start compute token number  38685360
+Calc::OP CODE   0
+Calc::start compute token number  38685368
+Calc::OP CODE   6
+Calc:: Tokenise Excute OP CODE 
+ OP CODE 0 
+Calc::case some bound 
+Calc::bound type  
+ queues 1 
+Calc::invokeMember with member
+ queues 02457930 Count
+Calc::getBoundName
+ queues
+calc::getParamStr, get parameter str , p n =  0 
+ calc::getParam, Strget parameter str
+ calc::getParamStr, Get and return type,  3 
+calc::getParamStr, get and return  parameter str
+  calc::getParamStr , Get and return string Value = ,  Orderslist 
+Calc::setReturnInteger
+ 0
+Calc::start compute token number  38685376
+Calc::OP CODE   6
+Calc:: Tokenise Excute OP CODE 
+ OP CODE 17 
+Calc:: math push number 
+ 4 1 
+Calc:: Tokenise Excute OP CODE 
+ OP CODE 79 
+Calc::case some bound 
+Calc::bound type  
+ queues 1 
+Calc::invokeMember with member
+ queues 02457930 Set
+Calc::getBoundName
+ queues
+calc::getParamStr, get parameter str , p n =  0 
+ calc::getParam, Strget parameter str
+ calc::getParamStr, Get and return type,  3 
+calc::getParamStr, get and return  parameter str
+  calc::getParamStr , Get and return string Value = ,  Orderslist 
+calc::getParamStr, get parameter str , p n =  1 
+ calc::getParam, Strget parameter str
+ calc::getParamStr, Get and return type,  3 
+calc::getParamStr, get and return  parameter str
+  calc::getParamStr , Get and return string Value = ,  OrderNo 
+calc::getParamStr, get parameter str , p n =  2 
+ calc::getParam, Strget parameter str
+ calc::getParamStr, Get and return type,  2 
+calc::getParamStr, get parameter not type str
+  convert to string,  1 
+calc::getParamStr, get and return  parameter str
+  calc::getParamStr , Get and return string Value = ,  1 
+Calc::start compute token number  38685384
+Calc::OP CODE   8
+Calc::start compute token number  38685392
+Calc::OP CODE   3
+Calc::start compute token number  38685400
+Calc::OP CODE   9
+Calc:: Tokenise Excute OP CODE 
+ OP CODE 3 
+Calc::start compute token number  38685408
+Calc::OP CODE   4
+Calc:: Tokenise Excute OP CODE 
+ OP CODE 9 
+Calc::start compute token number  38685416
+Calc::OP CODE   0
+Calc::start compute token number  38685424
+Calc::OP CODE   79
+Calc:: Tokenise Excute OP CODE 
+ OP CODE 0 
+Calc::start compute token number  38685432
+Calc::OP CODE   0
+Calc::start compute token number  38685440
+Calc::OP CODE   79
+Calc:: Tokenise Excute OP CODE 
+ OP CODE 0 
+Calc:: Tokenise Excute OP CODE 
+ OP CODE 79 
+Calc::start compute token number  38685448
+Calc::OP CODE   3
+Calc::start compute token number  38685456
+Calc::OP CODE   4
+Calc:: Tokenise Excute OP CODE 
+ OP CODE 3 
+Calc::start compute token number  38685464
+Calc::OP CODE   6
+Calc::case some bound 
+Calc::bound type  
+ Today 5 
+Calc::invoke some IFC  Today 5 
+Calc::get parameter paramcount 
+Calc::Print paramcount  0
+Calc::getBoundName
+ Today
+Calc::setReturnString
+ 79232
+Calc::start compute token number  38685472
+Calc::OP CODE   6
+Calc:: Tokenise Excute OP CODE 
+ OP CODE 79 
+Calc::case some bound 
+Calc::bound type  
+ queues 1 
+Calc::invokeMember with member
+ queues 02457930 Set
+Calc::getBoundName
+ queues
+calc::getParamStr, get parameter str , p n =  0 
+ calc::getParam, Strget parameter str
+ calc::getParamStr, Get and return type,  3 
+calc::getParamStr, get and return  parameter str
+  calc::getParamStr , Get and return string Value = ,  Orderslist 
+calc::getParamStr, get parameter str , p n =  1 
+ calc::getParam, Strget parameter str
+ calc::getParamStr, Get and return type,  3 
+calc::getParamStr, get and return  parameter str
+  calc::getParamStr , Get and return string Value = ,  OrderDate 
+calc::getParamStr, get parameter str , p n =  2 
+ calc::getParam, Strget parameter str
+ calc::getParamStr, Get and return type,  3 
+calc::getParamStr, get and return  parameter str
+  calc::getParamStr , Get and return string Value = ,  79232 
+Calc::start compute token number  38685480
+Calc::OP CODE   8
+Calc::start compute token number  38685488
+Calc::OP CODE   3
+Calc::start compute token number  38685496
+Calc::OP CODE   9
+Calc:: Tokenise Excute OP CODE 
+ OP CODE 3 
+Calc::start compute token number  38685504
+Calc::OP CODE   4
+Calc:: Tokenise Excute OP CODE 
+ OP CODE 9 
+Calc::start compute token number  38685512
+Calc::OP CODE   0
+Calc::start compute token number  38685520
+Calc::OP CODE   6
+Calc:: Tokenise Excute OP CODE 
+ OP CODE 0 
+Calc::case some bound 
+Calc::bound type  
+ queues 1 
+Calc::invokeMember with member
+ queues 02457930 add
+Calc::getBoundName
+ queues
+calc::getParamStr, get parameter str , p n =  0 
+ calc::getParam, Strget parameter str
+ calc::getParamStr, Get and return type,  3 
+calc::getParamStr, get and return  parameter str
+  calc::getParamStr , Get and return string Value = ,  Orderslist 
+Calc::start compute token number  38685528
+Calc::OP CODE   8
+Calc::start compute token number  38685536
+Calc::OP CODE   93
+Calc:: end computed expression
+Calc::end of computestr
